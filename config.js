@@ -1,9 +1,9 @@
 module.exports = {
   s3: {
-    accessKeyId: 'beed201bb19c47169d4ffded0a5754eb,',
-    secretAccessKey: '138737db097ec1e0680fbcbcaf0bfa426f6cb3890efa9615',
+    accessKeyId: 'dd5b65f2efe6427682a42155e838880e,',
+    secretAccessKey: '33b609553f73015a537941b2388f077158d75e607de63590',
     endpoint: 's3.eu-de.cloud-object-storage.appdomain.cloud',
-    bucket: 'esgi-cloud-infra-files-9xzmd-bucket',
+    bucket: 'nom',
   },
   suffix: {
     small: '_small.jpg',
